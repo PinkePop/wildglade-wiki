@@ -1,1 +1,62 @@
 site_name: Wildglade Chronicles Wiki
+site_description: The official wiki for the Wildglade Chronicles game
+site_author: PinkePop
+site_url: https://wildglade-wiki.kylianv.dev./
+
+theme:
+  name: material
+  copyright:
+    text: "© 2025 PinkePop – Wildglade Chronicles Wiki"
+  palette:
+    primary: blue grey
+  language: en
+  features:
+    - navigation.path
+    - navigation.footer
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/PinkePop/wildglade-wiki
+      name: PinkePop
+
+extra_css:
+  - assets/extra.css
+
+copyright: "&copy; 2025 PinkePop – Wildglade Chronicles Wiki"
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Character:
+      - Species: character/species.md
+      - Class: character/class.md
+  - Combat:
+      - Rules: combat/rules.md
+      - Tests: combat/tests.md
+  - Magic:
+      - Rules: magic/magic-rules.md
+      - Spells: magic/spells.md
+      - Scrolls: magic/scrolls.md
+  - Equipment:
+      - Weapons: equipment/weapons.md
+      - Armour: equipment/armour.md
+  - Items & Loot:
+      - Chests: items/chests.md
+      - Shop: items/shop.md
+      - Special Items: items/special-items.md
+  - Bestiary:
+      - Creatures: bestiary/creatures.md
