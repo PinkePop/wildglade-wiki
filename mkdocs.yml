@@ -43,23 +43,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Home: index.md
-  - Character:
-      - Species: character/species.md
-      - Class: character/class.md
-  - Combat:
-      - Rules: combat/rules.md
-      - Tests: combat/tests.md
-  - Magic:
-      - Rules: magic/magic-rules.md
-      - Spells: magic/spells.md
-      - Scrolls: magic/scrolls.md
-  - Equipment:
-      - Weapons: equipment/weapons.md
-      - Armour: equipment/armour.md
-  - Items & Loot:
-      - Chests: items/chests.md
-      - Shop: items/shop.md
-      - Special Items: items/special-items.md
-  - Bestiary:
-      - Creatures: bestiary/creatures.md
+  - Accueil: index.md
+  - L'Univers de Wildglade Chronicles:
+    - Univers: lore/lore.md

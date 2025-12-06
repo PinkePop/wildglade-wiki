@@ -7,7 +7,7 @@ hide:
 
 # Species
 
-Your charactere will be a Human, Fairy, Korigan, or Melusine. They are described below to help you choose.
+Your character will be a Human, Fairy, Korigan, or Melusine. They are described below to help you choose.
 
 Each specie come with its own natural tendencies, affinities, and limitations.
 
