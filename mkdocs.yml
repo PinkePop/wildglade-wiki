@@ -6,10 +6,10 @@ site_url: https://wildglade-wiki.kylianv.dev./
 theme:
   name: material
   copyright:
-    text: "© 2025 PinkePop – Wildglade Chronicles Wiki"
+    text: "&copy; 2025-Present PinkePop – Wildglade Chronicles Wiki"
   palette:
     primary: blue grey
-  language: en
+  language: fr
   features:
     - navigation.path
     - navigation.footer
@@ -24,7 +24,7 @@ extra:
 extra_css:
   - styles/extra.css
 
-copyright: "&copy; 2025 PinkePop – Wildglade Chronicles Wiki"
+copyright: "&copy; 2025-Present PinkePop – Wildglade Chronicles Wiki"
 
 plugins:
   - search
@@ -46,3 +46,5 @@ nav:
   - Accueil: index.md
   - L'Univers de Wildglade Chronicles:
     - Univers: lore/lore.md
+  - Règles:
+    - Règles: rules/rules.md

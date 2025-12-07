@@ -9,15 +9,13 @@ hide:
 
 === "Arduenn"
     
-    Arduenn est une terre ancienne, profondément marquée par la magie primordiale et les pactes conclus entre les premières civilisations et les esprits du monde. Ses forêts denses, ses dolmens brisés et ses lacs brumeux témoignent d’un âge d’or révolu.
+    Arduenn est une terre ancienne où coexistent ruines cyclopéennes, forêts profondes et lacs aux reflets changeants. De puissants pactes y furent jadis conclus entre les Quatre Grandes Maisons et les forces spirituelles qui veillaient sur le royaume.
 
-    Mais depuis la rupture du Pacte Primordial, Arduenn s’est fissurée : les créatures autrefois paisibles sont devenues hostiles, les esprits se sont corrompus et un immense donjon est apparu au cœur du royaume.
+    Depuis la rupture du Pacte Primordial, le monde se déséquilibre : les esprits se corrompent, les bêtes deviennent farouches, et un immense donjon s’est ouvert au cœur d’Arduenn.
 
 === "Pacte Primordial"
 
-    Le Pacte Primordial était un accord sacré entre les Quatre Grandes Maisons et les puissances spirituelles d’Arduenn.
-
-    Quatre armes sacrées, appelées Reliques Primordiales, scellaient ce pacte : chacune représentait une vertu fondatrice — la clairvoyance, la volonté, la protection et l’harmonie.
+    Le Pacte Primordial était un accord sacré entre les Quatre Grandes Maisons et les puissances spirituelles d’Arduenn. Quatre armes sacrées, appelées Reliques Primordiales, scellaient ce pacte.
 
     Tant que les quatre reliques restaient unies, Arduenn demeurait stable. Mais leur vol a brisé l’équilibre magique du royaume, libérant les forces chaotiques qui rongent désormais le monde.
 
@@ -25,15 +23,24 @@ hide:
 
 === "Les Grandes Maisons"
 
-    Les habitants d’Arduenn se regroupent en quatre lignées anciennes, chacune liée à un élément du pacte brisé :
+    Les habitants d’Arduenn sont regroupés en quatre lignées dont les origines remontent aux premiers pactes.
 
-    - Humains — adaptables et volontaires, héritiers de la Voie des Conquérants.
-    - Korigan — esprits rapides et rusés, issus des traditions sylvestres.
-    - Fées — êtres nés de l’Awen, la magie fluide qui imprègne Arduenn.
-    - Méludrenn — descendants des géants de pierre, robustes et résilients.
-
-
-    Chaque Maison possède ses dons propres et participe à la quête de restauration du Pacte, car toutes dépendent de son maintien.
+    ## Humains
+    
+    Polyvalents et résilients, ils incarnent la capacité d’adaptation et la volonté tenace.
+    
+    
+    ## Korigan
+    
+    Petits êtres agiles, rusés et rapides, étroitement liés aux traditions sylvestres et aux chemins invisibles des bois anciens.
+    
+    ## Fées
+    
+    Détentrices de la magie originelle de l’Awen, leur existence est intimement liée au flux immatériel du monde. Elles sont porteuses d’une sagesse mystique, mais aussi d’une grande fragilité face à la corruption.
+    
+    ## Méludrenn
+    
+    Issus d’une altération profonde du sang féerique. Ils forment une espèce au torse humain mais au bas de corps ophidien, dotée d’écailles, d’une musculature dense et d’une grande endurance.
 
 === "Le Donjon"
 
@@ -48,5 +55,3 @@ hide:
     Grâce à elles, Iltharyn modifie la structure du donjon et puise dans la puissance du Pacte sans en respecter l’équilibre.
 
     Chaque boss rencontré manie une des Reliques, mais l’arme disparaît mystérieusement à sa mort, téléportée vers l’Usurpateur, renforçant ce dernier en vue de l'affrontement final.
-
-    Vaincre Iltharyn, réassembler les reliques et restaurer le Pacte est l’unique voie pour sauver Arduenn.

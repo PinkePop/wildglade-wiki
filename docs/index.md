@@ -25,4 +25,11 @@ hide:
 
     [:octicons-arrow-right-24: Lire l'univers](./lore/lore.md)
 
+-   :octicons-book-24: __Règles__
+
+    ---
+
+    Déplacement, combat, statistiques.
+
+    [:octicons-arrow-right-24: Lire les règles](./rules/rules.md)
 </div>
