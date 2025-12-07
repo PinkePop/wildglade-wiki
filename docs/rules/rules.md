@@ -120,3 +120,45 @@ hide:
     - 25% de chance que son arme se brise, ou que le sort soit oublié (pour un Mage).
     - 65% de chance que les dégâts subi soit augmenté de 1.
     - 10% de chance que le critique n'ait pas de conséquence.
+
+    ## Formules
+
+    ### PV
+
+    ```
+    PV MAX = 10 + (END x 3)
+    ```
+
+    ### Réussite
+
+    ```
+    Réussite = Caractéristique - D20
+    ```
+
+    ### Dégâts
+
+    ```
+    Dégâts = (Ecart + Arme + ATK) - Armure
+    ```
+
+    ### Boutiques - Probabilité de Rang
+
+    - C = Charisme (0-16)
+    - B = Boutique rencontrée (0 à 9)
+  
+    Rang 1 : `R1 = 60 - 2C - 3B`
+    Rang 3 : `R3 = 10 + C + 2B`
+    Rang 2 : `R2 = 100 - R1 - R3`
+
+    A partir de la huitième boutique rencontrée, au moins un item aléatoire sera de Rang 3.
+
+    #### Détails
+
+    - 2C : 2% par Charisme (Ex.: 5 CHA = 10%).
+    - 2B : 2% par Boutique Rencontrée (Ex.: 3 = 6%)
+    - 3B : 3% par Boutique Rencontrée (Ex.: 3 = 9%)
+  
+    ### Coffres
+
+    - 60%: un item aléatoire.
+    - 40%: or = 2D10 + Charisme.

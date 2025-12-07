@@ -5,99 +5,30 @@ hide:
   - footer
 ---
 
-# Species
+# Création de Personnage
 
-Your character will be a Human, Fairy, Korigan, or Melusine. They are described below to help you choose.
+=== "Espèces"
 
-Each specie come with its own natural tendencies, affinities, and limitations.
+    ## Caractéristiques
 
-Choosing a specie has two major impacts on your character:
+    Chaque espèce confère des bonus de caractéristiques et impose parfois des restrictions de classes.
 
-- **Orientation** :
-  Each specie have specific characteristics that influence how your character performs in combat.
-- **Class accessibility**:
-  Species are not equally compatible with every class.
+    Aucune caractéristiques ne peut dépasser 16.
 
-=== "Human"
+    |  | (FOR) Force | (AGI) Agilité | (INT) Intelligence | (END) Endurance | (CHA) Charisme |
+    || :---: | :---: | :---: | :---: | :---: |
+    | **Humain** | 2 | 2 | 2 | 1 | 0 |
+    | **Fée** | 1 | 2 | 3 | 1 | 0 |
+    | **Korigan** | 1 | 3 | 2 | 1 | 0 |
+    | **Méludrenn** | 2 | 1 | 1 | 3 | 0 |
 
-    ## Description
+    ## Classes
 
-    Humans are known for their adaptability.
+    Certaines espèces n'ont pas accès à certaines classes.
 
-    ## Characteristics
-
-    | (F) Force | (A) Agility | (I) Intelligence | (E) Endurance | (C) Charism |
-    | :---: | :---: | :---: | :---: | :---: |
-    | 2 | 2 | 2 | 1 | 0 |
-
-    ## Class
-
-    | Class | Has Access ? |
-    | :------- | :----------- |
-    | Warrior | :material-check: Yes |
-    | Assassin | :material-check: Yes |
-    | Ranger | :material-check: Yes |
-    | Mage | :material-check: Yes |
-
-=== "Fairy"
-
-    ## Description
-
-    Fairies are nimble, graceful, and finely attuned to subtle flows of magic.
-
-    ## Characteristics
-
-    | (F) Force | (A) Agility | (I) Intelligence | (E) Endurance | (C) Charism |
-    | :---: | :---: | :---: | :---: | :---: |
-    | 1 | 2 | 3 | 1 | 0 |
-
-    ## Class
-
-    | Class | Has Access ? |
-    | :------- | :----------- |
-    | Warrior | :material-check: Yes |
-    | Assassin | :material-cancel: No |
-    | Ranger | :material-check: Yes |
-    | Mage | :material-check: Yes |
-
-=== "Korigan"
-
-    ## Description
-
-    Korigans are small, agile, and notoriously mischievous.
-
-    ## Characteristics
-
-    | (F) Force | (A) Agility | (I) Intelligence | (E) Endurance | (C) Charism |
-    | :---: | :---: | :---: | :---: | :---: |
-    | 1 | 3 | 2 | 1 | 0 |
-
-    ## Class
-
-    | Class | Has Access ? |
-    | :------- | :----------- |
-    | Warrior | :material-cancel: No |
-    | Assassin | :material-check: Yes |
-    | Ranger | :material-check: Yes |
-    | Mage | :material-check: Yes |
-
-=== "Melusine"
-
-    ## Description
-
-    Melusines are serpentine beings with powerful muscles and instinctive combat reflexes.
-
-    ## Characteristics
-
-    | (F) Force | (A) Agility | (I) Intelligence | (E) Endurance | (C) Charism |
-    | :---: | :---: | :---: | :---: | :---: |
-    | 2 | 1 | 1 | 3 | 0 |
-
-    ## Class
-
-    | Class | Has Access ? |
-    | :------- | :----------- |
-    | Warrior | :material-check: Yes |
-    | Assassin | :material-check: Yes |
-    | Ranger | :material-check: Yes |
-    | Mage | :material-cancel: No |
+    |  | Guerrier | Assassin | Rôdeur | Mage |
+    | --- | :---: | :---: | :---: | :---: |
+    | **Humain** | :material-check: Oui | :material-check: Oui | :material-check: Oui | :material-check: Oui |
+    | **Fée** | :material-check: Oui | :material-cancel: No | :material-check: Oui | :material-check: Oui |
+    | **Korigan** | :material-cancel: No | :material-check: Oui | :material-check: Oui | :material-check: Oui |
+    | **Méludrenn** | :material-check: Oui | :material-check: Oui | :material-check: Oui | :material-cancel: No |

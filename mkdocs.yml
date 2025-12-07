@@ -48,3 +48,5 @@ nav:
     - Univers: lore/lore.md
   - Règles:
     - Règles: rules/rules.md
+  - Création de personnage:
+    - Espèces: character/species.md
